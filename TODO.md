@@ -1,0 +1,7 @@
+- Allow bower to compile automatically using wiredep
+  - Paths to js/css files that are injected are not correct (/bower_components/.. instead of /dist/...)
+  - Need to figure out how to put all bower JS into a concatenated vendor.js
+- Add calendar functionality
+  - In progress
+- Fill with content
+- Active item on menubar
