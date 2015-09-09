@@ -4,4 +4,4 @@
 - Add calendar functionality
   - In progress
 - Fill with content
-- Active item on menubar
+- <del>Active item on menubar</del>
