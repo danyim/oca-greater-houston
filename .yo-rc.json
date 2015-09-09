@@ -1,0 +1,17 @@
+{
+  "generator-assemble": {
+    "projectName": "OCA Greater Houston",
+    "projectDesc": "Empowering Professional Asian-Americans",
+    "authorLogin": "danyim",
+    "installPlugin": true,
+    "author": {
+      "name": "Daniel Yim",
+      "login": "assemble",
+      "email": "danielyim@gmail.com"
+    },
+    "plugins": [
+      "assemble-contrib-permalinks",
+      "assemble-contrib-sitemap"
+    ]
+  }
+}
