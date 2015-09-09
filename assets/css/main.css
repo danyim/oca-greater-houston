@@ -1,0 +1,83 @@
+html {
+  font-size: 100%;
+}
+html body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 300;
+  color: #333;
+  background-color: #fff;
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto Condensed", "Times New Roman", serif;
+  font-weight: 300;
+}
+
+button, .btn {
+  font-family: "Roboto Condensed", "Times New Roman", serif;
+}
+
+.page-membership h4 {
+  text-transform: uppercase;
+}
+
+@media (min-width: 1200px) {
+  section.navbar .navbar .container {
+    max-width: 970px;
+  }
+}
+section.navbar .navbar-fixed-top {
+  box-shadow: 0 4px 20px 1px #bbb;
+  background-color: white;
+  font-size: 1.00rem;
+  font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+section.navbar .navbar-fixed-top li {
+  text-transform: uppercase;
+}
+section.navbar .navbar-fixed-top li a {
+  color: #000;
+  transition: background-color 0.25s ease;
+}
+section.navbar .navbar-fixed-top li a:hover {
+  background-color: #ebebeb;
+}
+section.navbar .navbar-fixed-top li.active a {
+  background-color: #cd232f;
+  color: #fff;
+}
+
+section.footer {
+  font-family: "Roboto Condensed", "Times New Roman", serif;
+  font-size: 0.80rem;
+  color: #999999;
+  margin-top: 50px;
+}
+section.footer hr {
+  margin-bottom: 0.50rem;
+}
+section.footer .separator {
+  color: #d9d9d9;
+  margin: 0 0.20rem;
+  font-size: 0.90rem;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+/*# sourceMappingURL=main.css.map */
